@@ -4,10 +4,8 @@ App de agenda de consultas feito em Flutter e Dart para a disciplina de Desenvol
 
 ## Quem fez
 
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-- [Nome do integrante 4]
+- [Kevin Viturino 1]
+
 
 ## A ideia
 
